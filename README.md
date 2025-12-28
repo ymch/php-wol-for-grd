@@ -70,8 +70,8 @@ you should be able to check it remotely.
 - Disable *Fast Startup*
 - Enable Wake on LAN in BIOS / UEFI
 
-> Depending on the BIOS/UEFI, the PC may not wake from a full shutdown.
-> In such cases, use *Hibernate* mode.
+Depending on the BIOS/UEFI, the PC may not wake from a full shutdown.
+In such cases, use *Hibernate* mode.
 
 ---
 
