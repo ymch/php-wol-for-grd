@@ -89,11 +89,3 @@ ipconfig /all
 なお、本スクリプトの使用に起因する  
 損害その他の問題について、作者は一切の責任を負いません。
 
----
-
-作成者: やちまう
-Website: https://ymch.jp/  
-ライセンス: GPL v2
-
-GitHub リポジトリ:
-https://github.com/ymch/php-wol-for-grd
