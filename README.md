@@ -77,8 +77,7 @@ you should be able to check it remotely.
 
 ## License
 
-This software is licensed under the  
-**GNU General Public License version 2 (GPL v2)**.
+This software is licensed under the **MIT License**.
 
 It is free of charge.
 
