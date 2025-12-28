@@ -84,12 +84,3 @@ It is free of charge.
 
 The author assumes **no responsibility whatsoever**
 for any damages or issues arising from the use of this script.
-
----
-
-Author: Yachimau  
-Website: https://ymch.jp/  
-License: GPL v2  
-
-Repository:
-https://github.com/ymch/php-wol-for-grd
