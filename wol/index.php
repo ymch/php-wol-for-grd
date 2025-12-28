@@ -4,8 +4,8 @@
  *
  * This file is part of the wol.zip package.
  *
- * This software is licensed under the GNU General Public License (GPL).
- * You can redistribute it and/or modify it under the terms of the GPL.
+ * This software is licensed under the MIT License.
+ * See the LICENSE file for details.
  *
  * This software is provided as-is, without any warranty.
  * The author assumes no responsibility for any damages or issues arising from its use.
@@ -150,3 +150,4 @@ function Confirmation() {
 <?php endif; ?>
 </body>
 </html>
+
