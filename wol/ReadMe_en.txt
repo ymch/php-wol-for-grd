@@ -48,7 +48,7 @@ Prerequisites
     it may not wake up from a power-off (shutdown) state.
     In such cases, use "Hibernate" mode.
 
-This software is licensed under the GPL v2. Naturally, it is free of charge.
+This software is licensed under the MIT. Naturally, it is free of charge.
 Furthermore, the author assumes no responsibility whatsoever for any damages
 or other issues arising from the use of this script.
 
@@ -59,3 +59,4 @@ https://github.com/ymch/php-wol-for-grd
 
 Created by: Yachimau
 https://ymch.jp/
+
